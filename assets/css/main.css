@@ -1081,12 +1081,12 @@ hr {
 }
 
 .slider-center .slick-center img {
-  -moz-transform: scale(1.9);
-  -ms-transform: scale(1.9);
-  -o-transform: scale(1.9);
-  -webkit-transform: scale(1.9);
+  -moz-transform: scale(2.2);
+  -ms-transform: scale(2.2);
+  -o-transform: scale(2.2);
+  -webkit-transform: scale(2.2);
   opacity: 1;
-  transform: scale(1.9);
+  transform: scale(2.2);
 }
 
 .form-control {

@@ -80,7 +80,7 @@
     ========================================================*/
     $('.slider-center').slick({
       centerMode: true,
-      centerPadding: '60px',
+      centerPadding: '90px',
       slidesToShow: 3,
       responsive: [
         {
